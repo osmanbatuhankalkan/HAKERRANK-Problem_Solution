@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/bin/Debug/net6.0/HAKKERANK2
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/bin/Debug/net6.0/HAKKERANK2.deps.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/bin/Debug/net6.0/HAKKERANK2.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/bin/Debug/net6.0/HAKKERANK2.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/bin/Debug/net6.0/HAKKERANK2.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/HAKKERANK2.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/HAKKERANK2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/HAKKERANK2.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/HAKKERANK2.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/HAKKERANK2.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/HAKKERANK2.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/refint/HAKKERANK2.dll
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/HAKKERANK2.pdb
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/HAKKERANK2.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HAKERRANK_DEPO/HAKKERANK2/obj/Debug/net6.0/ref/HAKKERANK2.dll
