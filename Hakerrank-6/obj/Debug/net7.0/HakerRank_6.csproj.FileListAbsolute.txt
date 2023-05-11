@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/HakerRank_6.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/HakerRank_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/HakerRank_6.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/HakerRank_6.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/HakerRank_6.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/bin/Debug/net7.0/HakerRank_6
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/bin/Debug/net7.0/HakerRank_6.deps.json
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/bin/Debug/net7.0/HakerRank_6.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/bin/Debug/net7.0/HakerRank_6.dll
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/bin/Debug/net7.0/HakerRank_6.pdb
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/HakerRank_6.dll
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/refint/HakerRank_6.dll
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/HakerRank_6.pdb
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/HakerRank_6.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HakerRank_6/obj/Debug/net7.0/ref/HakerRank_6.dll
