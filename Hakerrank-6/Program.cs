@@ -1,34 +1,34 @@
 using System;
 
-namespace HackerRank_6
+class Program
 {
-    class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
+        int N = int.Parse(Console.ReadLine());
+
+        for (int i = 0; i < N; i++)
         {
-            // Kaç tane string değer alacağımızı kullanıcıdan alalım
-            Console.WriteLine("Değer Girin");
-            int degerString = int.Parse(Console.ReadLine());
+            string str = Console.ReadLine();
 
-            for (int i = 0; i < 10; i++)
+            for (int j = 0; j < str.Length; j++)
             {
-                // Her bir string değeri kullanıcıdan alalım
-                string str = Console.ReadLine();
-
-                for (int a = 0; a < str.Length; a++)
+                if (j % 2 == 0)
                 {
-                    if (a % 2 == 0)
-                    {
-                        Console.WriteLine(str[a]);
-                    }
-                    else
-                    {
-                        Console.WriteLine(str[a]);
-                    }
+                    Console.Write(str[j]);
                 }
-
-                Console.WriteLine(str);
             }
+
+            Console.Write(" ");
+
+            for (int j = 0; j < str.Length; j++)
+            {
+                if (j % 2 != 0)
+                {
+                    Console.Write(str[j]);
+                }
+            }
+
+            Console.WriteLine();
         }
     }
 }
