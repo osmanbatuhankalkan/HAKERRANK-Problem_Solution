@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/bin/Debug/net7.0/HakerRank-Day-4
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/bin/Debug/net7.0/HakerRank-Day-4.deps.json
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/bin/Debug/net7.0/HakerRank-Day-4.runtimeconfig.json
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/bin/Debug/net7.0/HakerRank-Day-4.dll
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/bin/Debug/net7.0/HakerRank-Day-4.pdb
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/HakerRank-Day-4.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/HakerRank-Day-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/HakerRank-Day-4.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/HakerRank-Day-4.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/HakerRank-Day-4.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/HakerRank-Day-4.dll
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/refint/HakerRank-Day-4.dll
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/HakerRank-Day-4.pdb
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/HakerRank-Day-4.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Desktop/HakerRank-Day-4/obj/Debug/net7.0/ref/HakerRank-Day-4.dll
